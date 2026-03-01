@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="src/Api/Api.csproj" Id="ab1a13e6-3777-41fc-a4f9-d694fed6cc8d" />
+  <Project Path="src/Application/Application.csproj" Id="df89b9d1-7990-41fa-903e-4c04f3c2184d" />
+  <Project Path="src/Domain/Domain.csproj" Id="4110167f-56fd-46b0-8427-404e5d1e2d25" />
+  <Project Path="src/Infrastructure/Infrastructure.csproj" Id="a39b09e1-a46f-48f7-bd8b-67ba866296ad" />
+  <Project Path="tests/Application.Integration/Application.Integration.csproj" Id="cd716af5-4eed-4b59-9e47-914a57bfea4e" />
+  <Project Path="tests/Application.Unit/Application.Unit.csproj" Id="3a44513f-9a2e-47f5-87c1-20927734170c" />
+  <Project Path="tests/Domain.Unit/Domain.Unit.csproj" Id="fcf4c51f-514f-4ab1-b694-27120e5296a2" />
+</Solution>

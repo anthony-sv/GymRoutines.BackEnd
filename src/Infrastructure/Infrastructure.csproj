@@ -8,11 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Caching\" />
-    <Folder Include="Auth\" />
-    <Folder Include="Repositories\" />
     <Folder Include="Persistence\Migrations\" />
-    <Folder Include="Persistence\Configurations\" />
-    <Folder Include="Persistence\Seeders\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -12,10 +12,6 @@
     <Folder Include="Features\Catalog\DTOs\" />
     <Folder Include="Features\Catalog\Queries\" />
     <Folder Include="Features\Catalog\Validators\" />
-    <Folder Include="Features\Exercises\Commands\" />
-    <Folder Include="Features\Exercises\DTOs\" />
-    <Folder Include="Features\Exercises\Queries\" />
-    <Folder Include="Features\Exercises\Validators\" />
     <Folder Include="Features\TrainingPlans\Commands\" />
     <Folder Include="Features\TrainingPlans\DTOs\" />
     <Folder Include="Features\TrainingPlans\Validators\" />
